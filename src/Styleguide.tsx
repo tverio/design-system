@@ -8,6 +8,7 @@ import {JetRocketsLogo} from "./components/logos/JetRocketsLogo";
 import {PrimeGroupLogo} from "./components/logos/PrimeGroupLogo";
 import {TverioBlackLogo} from "./components/logos/TverioBlackLogo";
 import {TverioWhiteLogo} from "./components/logos/TverioWhiteLogo";
+import {typography} from "./tokens/typography";
 
 export const styles = StyleSheet.create({
     container: {
@@ -70,6 +71,12 @@ export const Styleguide = () => {
                         <TverioWhiteLogo />
                     </Component>
                 </View>
+                <Text style={[styles.heading2, {marginTop: 20}]}>Text styles</Text>
+                {Object.keys(typography).map((typographyKey) => (
+                    <Component key={typographyKey} name={typographyKey} style={{marginTop: 20}}>
+                        <Text style={typography[typographyKey]}>{typographyKey}</Text>
+                    </Component>
+                ))}
             </Frame>
         </Page>
     );
