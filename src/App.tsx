@@ -1,10 +1,10 @@
 import * as React from 'react';
-import {BookletsStyleguide} from "./BookletsStyleguide";
+import {Styleguide} from "./Styleguide";
 
 export const App = () => {
     return (
         <>
-            <BookletsStyleguide />
+            <Styleguide />
         </>
     );
 };
