@@ -1,14 +1,14 @@
 import * as React from 'react';
 import {Page, StyleSheet, Text, Frame, Component, View} from "react-figma";
-import {sizing} from "./tokens/sizing";
-import {AccentureLogo} from "./components/logos/AccentureLogo";
-import {EpamLogo} from "./components/logos/EpamLogo";
-import {HoodiesLogo} from "./components/logos/HoodiesLogo";
-import {JetRocketsLogo} from "./components/logos/JetRocketsLogo";
-import {PrimeGroupLogo} from "./components/logos/PrimeGroupLogo";
-import {TverioBlackLogo} from "./components/logos/TverioBlackLogo";
-import {TverioWhiteLogo} from "./components/logos/TverioWhiteLogo";
-import {typography} from "./tokens/typography";
+import {sizing} from "../tokens/sizing";
+import {AccentureLogo} from "../components/logos/AccentureLogo";
+import {EpamLogo} from "../components/logos/EpamLogo";
+import {HoodiesLogo} from "../components/logos/HoodiesLogo";
+import {JetRocketsLogo} from "../components/logos/JetRocketsLogo";
+import {PrimeGroupLogo} from "../components/logos/PrimeGroupLogo";
+import {TverioBlackLogo} from "../components/logos/TverioBlackLogo";
+import {TverioWhiteLogo} from "../components/logos/TverioWhiteLogo";
+import {typography} from "../tokens/typography";
 
 export const styles = StyleSheet.create({
     container: {
