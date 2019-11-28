@@ -36,7 +36,7 @@ export const styles = StyleSheet.create({
 
 export const Styleguide = () => {
     return (
-        <Page name="Styleguide">
+        <Page isCurrent name="Styleguide">
             <Frame name="Styleguide" style={styles.container}>
                 <Text style={styles.heading1}>Styleguide</Text>
                 <Text style={[styles.heading2, {marginTop: 10}]}>Sizing</Text>

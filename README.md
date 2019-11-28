@@ -1,41 +1,14 @@
-# react-figma boilerplate
-A basic template to start working with [react-figma](https://www.npmjs.com/package/react-figma) package
+# [WIP] Tver.io Design System
 
-The template includes:
+[Preview](https://www.figma.com/file/wxGMBcEhF9hvQxqjk2VXCu/Tver.io-DS?node-id=22%3A357)
 
-- Basic file structure
-- TypeScript configuration
-- Webpack configuration
+## Requirements
 
-## Quick start
-- clone repository from GitHub
-    ````
-    git clone https://github.com/LosYear/react-figma-boilerplate.git
-    ````
+Fonts `FuturaMediumC`, `FuturaBookC`, `FuturaLightC` should be installed into system.
 
-- install node modules either with `Yarn` or `npm`
+## Running
 
-    Yarn:
-    ````
-    cd react-figma-boilerplate
-    yarn 
-    ````
-    
-    npm:
-    ````
-    cd react-figma-boilerplate
-    npm install
-    ````
-
-- run
-
-    Yarn:
-    ````
-    yarn webpack:watch 
-    ````
-    
-    npm:
-    ````
-    cd react-figma-boilerplate
-    npm run webpack:watch
-    ````
+* `yarn install` 
+* `yarn webpack:watch `
+* Import plugin to Figma (Plugins -> Development).
+* Run `Tver.io Design System` plugin to document.
