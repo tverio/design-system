@@ -29,8 +29,8 @@ export const styles = StyleSheet.create({
         marginLeft: 10
     },
     logosContainer: {
-        flexDirection: ("row" as any),
-        alignItems: ("center" as any)
+        flexDirection: "row",
+        alignItems: "center"
     }
 });
 

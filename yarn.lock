@@ -2589,10 +2589,10 @@ react-figma-webpack-config@^0.0.2:
     webpack "^4.41.2"
     webpack-merge "^4.2.2"
 
-react-figma@0.0.1-alpha.25:
-  version "0.0.1-alpha.25"
-  resolved "https://registry.yarnpkg.com/react-figma/-/react-figma-0.0.1-alpha.25.tgz#91c00f8bf317f2e376b54a8c193c01c0b82c9ee7"
-  integrity sha512-4/RaLM9rYu4sq3dlsfyTyuoRwl/O7aNy4aUsiA4UrVvEokO0LtdT0dt+qrpzfgoB/rhocLc4zFHwv3vnnbs9ZA==
+react-figma@0.0.1-alpha.26:
+  version "0.0.1-alpha.26"
+  resolved "https://registry.yarnpkg.com/react-figma/-/react-figma-0.0.1-alpha.26.tgz#35a475c8941d8abbbace92d0a4e9f455b530ca37"
+  integrity sha512-OqFdliIgoA1PvTKCI3tgk8VxlDOVOukl1RKII09kR6j87Ec41ZFWcP9CdUcnd6bmkTxEMnPydcToMQDgTozzqA==
   dependencies:
     color-parse "^1.3.8"
     nanoid "^2.0.3"
