@@ -51,7 +51,7 @@ export const BlankBooklet = () => {
                 style={styles.separator}
             />
             <Frame style={styles.footer}>
-                <Text style={typography.RegularText}>Опрос</Text>
+                <Text style={typography.RegularText}>Вопрос</Text>
                 <TverioBlackLogo style={{width: 100, height: 100}} />
             </Frame>
         </View>

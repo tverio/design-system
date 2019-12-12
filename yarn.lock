@@ -2576,7 +2576,7 @@ rc@^1.2.7:
     minimist "^1.2.0"
     strip-json-comments "~2.0.1"
 
-react-figma-webpack-config@^0.0.2:
+react-figma-webpack-config@0.0.2:
   version "0.0.2"
   resolved "https://registry.yarnpkg.com/react-figma-webpack-config/-/react-figma-webpack-config-0.0.2.tgz#41c577f7ef4291182b1504d45a41bf51c8b4b8e5"
   integrity sha512-CZIXxV8qz8n1cBqUGJgG7Sky92OSGOFWb7kJPaG8/aNhatiiHp/EF9eiKRb6eY7+6UzIGdIcNknMJG8FvNUynQ==
@@ -2589,10 +2589,10 @@ react-figma-webpack-config@^0.0.2:
     webpack "^4.41.2"
     webpack-merge "^4.2.2"
 
-react-figma@0.0.1-alpha.26:
-  version "0.0.1-alpha.26"
-  resolved "https://registry.yarnpkg.com/react-figma/-/react-figma-0.0.1-alpha.26.tgz#35a475c8941d8abbbace92d0a4e9f455b530ca37"
-  integrity sha512-OqFdliIgoA1PvTKCI3tgk8VxlDOVOukl1RKII09kR6j87Ec41ZFWcP9CdUcnd6bmkTxEMnPydcToMQDgTozzqA==
+react-figma@0.0.31:
+  version "0.0.31"
+  resolved "https://registry.yarnpkg.com/react-figma/-/react-figma-0.0.31.tgz#5cbb0e44ee45baa88b3892bacab7ebdf9e441cd8"
+  integrity sha512-sDUNPEQeeN2yZ4XuOlVQDEtivqtyRbov+qlOGChQMxxyq+JxRDnD95cWsrzW1VjQlQ6Alg8gIANucKPTtRZSKA==
   dependencies:
     color-parse "^1.3.8"
     nanoid "^2.0.3"
